@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pure-s.github.io/darkme.github.io/</id>
     <title>Darket的小屋</title>
-    <updated>2020-05-05T05:31:47.520Z</updated>
+    <updated>2020-05-05T05:33:16.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pure-s.github.io/darkme.github.io/"/>
     <link rel="self" href="https://pure-s.github.io/darkme.github.io/atom.xml"/>
@@ -119,10 +119,10 @@
 </ol>
 <ul class="contains-task-list">
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8507200"><label class="task-list-item-label" for="task-item-8507200"> 复选框</label></p>
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1749433"><label class="task-list-item-label" for="task-item-1749433"> 复选框</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2303174"><label class="task-list-item-label" for="task-item-2303174"> 复选框</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2856959"><label class="task-list-item-label" for="task-item-2856959"> 复选框</label></p>
 </li>
 </ul>
 <pre><code>&lt;p align=&quot;center&quot;&gt;居中&lt;/p&gt;
@@ -154,7 +154,11 @@
         <link href="https://pure-s.github.io/darkme.github.io/post/2020-5-4/">
         </link>
         <updated>2020-05-04T14:35:27.000Z</updated>
-        <content type="html"><![CDATA[<p>今天是我买下纯纯写作的第一天，有人说纯纯写作可能不适合做平常的文本记录，它更适合写长文本写作，但挡不住我对他的喜爱，就是喜欢这样一个纯文本与markdown共存的app，喜欢在纯纯带给我的沉浸的体验和码字不丢失文本的安心，老实说桌面版没给我太多惊喜，还要有诸多完善，也有一段路要走，与其说记录，不如说是实时共享，但也不是不能用，我能感受到开发者对纯纯写作的热情与热爱，我们都希望纯纯写作越来越好，这是一个可以陪伴自己一辈子的app。</p>
+        <summary type="html"><![CDATA[<p>买了个东西还有这么多屁话，难受哟</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>买了个东西还有这么多屁话，难受哟</p>
+<!-- more -->
+<p>今天是我买下纯纯写作的第一天，有人说纯纯写作可能不适合做平常的文本记录，它更适合写长文本写作，但挡不住我对他的喜爱，就是喜欢这样一个纯文本与markdown共存的app，喜欢在纯纯带给我的沉浸的体验和码字不丢失文本的安心，老实说桌面版没给我太多惊喜，还要有诸多完善，也有一段路要走，与其说记录，不如说是实时共享，但也不是不能用，我能感受到开发者对纯纯写作的热情与热爱，我们都希望纯纯写作越来越好，这是一个可以陪伴自己一辈子的app。</p>
 <p>对纯纯写作垂涎了很长时间，终于在捣鼓了好长时间后，爬到美区，买下了他，不得不说是看中了比国区的价格低了很多的这个事实，如果可以我更愿意在国区买，无奈，因此想方设法蹭个优惠，想起去年末打折仅售十几块的时候没有买，到现在这么贵居然想着买下来真的有点犯傻。</p>
 <p>说实话解锁pro版后，我并没有体验到太多与免费版不同的地方，除了markdown预览，自定义背景，状态栏沉浸，以及自定义字体等，随着上手时间越长，我的热情也慢慢淡了下来，我相信它会是我接下来的写作利器，也会是我生活的好助手，但我仍不可避免感到一点后悔，不可避免思考一时冲动的得失。</p>
 <p>诚然，我一直在找一个心仪的记录生活的利器，但是到目前仍然没有一个结果，我想要的诸如有有道云的网页剪藏，也想要石墨文档的实时同步，想要便签的诸多自定义，还想要很多能给我惊喜的不起眼的小功能，但是很遗憾到现在为止没有一个app能让我特别满意，我当然是站在自己的角度去思考，开发者当然也应该照顾大多数人的意见，但是不妨碍我仍然觉得纯纯写作是Android端我用着的特别舒适的记录软件，希望纯纯写作能让我觉得值得，也希望纯纯写作越来越好。</p>
