@@ -1,19 +1,21 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
  <head>
-     <meta charset="utf-8" />
+    <meta charset="utf-8" />
   <title>To：武汉的年轻人 | Darket的小屋</title>
   <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
   <link rel="stylesheet" href="https://pure-s.github.io/darkme.github.io//styles/main.css" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
    <script src="https://cdn.staticfile.org/highlight.js/9.15.9/highlight.min.js"></script>
     <script>hljs.initHighlightingOnLoad();</script>
+    <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+
  </head>
  <body>
      <div class="sidebar animated fadeInDown">
    <div class="logo-title">
     <div class="title">
-     <img src="https://pure-s.github.io/darkme.github.io//images/avatar.png?v=1588680796277" style="width:127px;" />
+     <img src="https://pure-s.github.io/darkme.github.io//images/avatar.png?v=1588690232717" style="width:127px;" />
 
      <div class="description">
       <p><font color=black size=3>桃李春风一杯酒，江湖夜雨十年灯</font></p>
@@ -80,11 +82,11 @@
         <h3><a>To：武汉的年轻人</a></h3>
        </div>
        <div class="post-content">
-        <p>老罗给武汉年轻人的，共勉</p>
+        <p>老罗给武汉年轻人写的，共勉</p>
 <!-- more -->
 <p><audio src="https://m801.music.126.net/20200505202551/dfc3ae25ea32e7fe90943c6280f65d8b/jdyyaac/055f/065a/5458/2557a145a010c9f8b734c2e2fdc3cc09.m4a" controls></audio></p>
 <blockquote>
-<p>Here we are again</p>
+<p>Here we are again — 田洪林</p>
 </blockquote>
 <p>1.在你这个年纪，在即将毕业的阶段，迷茫是正常的，不迷茫才是不正常的，不用担心。我从事教师工作的近八年里，见过的多数大学生在毕业的时候，对未来都是很迷茫的。那些十几二十岁就很清楚自己想要如何度过一生，并且坚定地付诸实现的人，都是极不正常的（此处的“不正常”为中性描述、无褒贬味）</p>
 <p>2.你不想“拖着铁饭碗过一眼就里到头的日子”，这很好，绝大多数取得不平凡成就的人，都始于个不甘于平凡的朴素意愿。</p>
@@ -111,6 +113,25 @@
         </div>
        </div>
       </div>
+<!--载入js，在</body>之前插入即可-->
+    <!--Leancloud 操作库:-->
+    <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+    <!--Valine 的核心代码库-->
+    <script src="/media/scripts/Valine.min.js"></script>
+<div class="comment"></div>
+<script>
+    new Valine({
+        // AV 对象来自上面引入av-min.js(老司机们不要开车➳♡゛扎心了老铁)
+        av: AV, 
+        el: '.comment',
+	      lang: 'zh-cn',//设置评论语言
+        emoticon_url: 'https://cloud.panjunwen.com/alu',
+  emoticon_list: ["狂汗.png","不说话.png","汗.png","坐等.png","献花.png","不高兴.png","中刀.png","害羞.png","皱眉.png","小眼睛.png","暗地观察.png"],
+  app_id: 'RbxGjcPlslHPcnUSbFqlntOy-gzGzoHsz',
+  app_key: 'WCTay2GFLkXtd1BVU9PA3vLJ',
+  placeholder: '评论留言'
+    });
+</script>    
       <div class="share">
        <div class="evernote">
         <a class="fa fa-bookmark" href="javascript:(function(){EN_CLIP_HOST='http://www.evernote.com';try{var%20x=document.createElement('SCRIPT');x.type='text/javascript';x.src=EN_CLIP_HOST+'/public/bookmarkClipper.js?'+(new%20Date().getTime()/100000);document.getElementsByTagName('head')[0].appendChild(x);}catch(e){location.href=EN_CLIP_HOST+'/clip.action?url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title);}})();" ref="nofollow" target="_blank"></a>
@@ -126,35 +147,10 @@
        <ul class="clearfix">
 
         
-        <li class="next pagbuttons"><a class="btn" role="navigation" href="https://pure-s.github.io/darkme.github.io/post/bei-dai-biao-de-nian-qing-ren/" title=" 被代表的年轻人">下一篇</a></li>
+        <li class="next pagbuttons"><a class="btn" role="navigation" href="https://pure-s.github.io/darkme.github.io/post/xie-zai-na-zhi-qian/" title=" 写在那之前">下一篇</a></li>
         
        </ul>
       </div>
-        
-          
-            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
-
-<div id="gitalk-container"></div>
-
-<script>
-
-  var gitalk = new Gitalk({
-    clientID: 'b9e0317d8182888b11b0',
-    clientSecret: 'd8ff92680a6f9584dfc70e205c23ed8632b4d3c3',
-    repo: 'darkme.github.io',
-    owner: 'Pure-s',
-    admin: ['Pure-s'],
-    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
-    distractionFreeMode: false  // Facebook-like distraction free mode
-  })
-
-  gitalk.render('gitalk-container')
-
-</script>
-
-          
-          
         
      </div>
     </div>
