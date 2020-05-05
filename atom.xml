@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pure-s.github.io/darkme.github.io/</id>
     <title>Darket的小屋</title>
-    <updated>2020-05-05T14:51:10.491Z</updated>
+    <updated>2020-05-05T14:52:38.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pure-s.github.io/darkme.github.io/"/>
     <link rel="self" href="https://pure-s.github.io/darkme.github.io/atom.xml"/>
@@ -34,23 +34,6 @@
 <p>6.最后，尝试给你提供一些帮助或安慰的我，是个呕心沥血做了6年科技公司最后核心业务维持不下去还欠了6个多亿债务但每天还是活蹦乱跳工作一年就还了一半多债务而且另一半债务看起来也问题不大的连环创业者…希望这能让你积极</p>
 <p>7.最后的最后，多年以来，很多人都误以为我这辈子一直都是理想远大、目标明确的人。但实际的情况是，我在高中辍学后，有过长达十多年的迷茫期，直到遇见我老婆，我才算有了相对明确的人生计划。所以，一时找不到工作，就先找个真正的女朋友吧</p>
 <h3 id="p-alignright2020423-罗永浩p"><p align="right">2020.4.23  罗永浩</p></h3>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[写在那之前]]></title>
-        <id>https://pure-s.github.io/darkme.github.io/post/xie-zai-na-zhi-qian/</id>
-        <link href="https://pure-s.github.io/darkme.github.io/post/xie-zai-na-zhi-qian/">
-        </link>
-        <updated>2020-05-05T14:43:22.000Z</updated>
-        <summary type="html"><![CDATA[<p>明天就要去医院了，尽管我大概已经知道结果。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>明天就要去医院了，尽管我大概已经知道结果。</p>
-<!-- more -->
-<p>生命还真是残酷，病毒也足以将一个体格无论如何健全的人击倒。放在几年前如我也不会相信他竟到如今这般模样。尽管病痛是人生绕不开的话题，尽管每个人都避免不了。</p>
-<p>我也常想，也计较着日子，我也常常避免检查，因为害怕。倒不是害怕自己会因此遭受折磨，而是害怕给家人抑或其余人增加负担。我是一个极不愿意麻烦别人的人，这当然会给我增加更多苦恼，也定觉得自己无用至极。</p>
-<p>不知与其他人想法是否一样，但想来应该是不大相同。我从不奢望活得很长。如我想，一旦岁至高龄，年轻时犯下的错也会携山带海而来。大抵其一是病痛，其二便是回忆，一个蜷缩在身上， 一个奔涌在心头。无论如何也是我不愿意看到的情景。</p>
-<p>我能深感他的无奈，张张嘴，却无法做出任何回应。任何的看似有力的说辞在病人的病痛没有放缓之前终是要土崩瓦解。想要你的说辞有用，至少你要拿得出让人信服的希望，不知是否一直悲观处事，但是我没看到。</p>
-<p>明天再去想吧，那时我就经受住一切了。毕竟，明天又会是另外的一天呢。</p>
 ]]></content>
     </entry>
     <entry>
@@ -183,10 +166,10 @@
 </ol>
 <ul class="contains-task-list">
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5932324"><label class="task-list-item-label" for="task-item-5932324"> 复选框</label></p>
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5806681"><label class="task-list-item-label" for="task-item-5806681"> 复选框</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3888954"><label class="task-list-item-label" for="task-item-3888954"> 复选框</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7047857"><label class="task-list-item-label" for="task-item-7047857"> 复选框</label></p>
 </li>
 </ul>
 <pre><code>&lt;p align=&quot;center&quot;&gt;居中&lt;/p&gt;
