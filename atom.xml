@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pure-s.github.io/darkme.github.io/</id>
     <title>Darket的小屋</title>
-    <updated>2020-05-05T05:40:20.019Z</updated>
+    <updated>2020-05-05T05:54:30.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pure-s.github.io/darkme.github.io/"/>
     <link rel="self" href="https://pure-s.github.io/darkme.github.io/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://pure-s.github.io/darkme.github.io/images/avatar.png</logo>
     <icon>https://pure-s.github.io/darkme.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Darket的小屋</rights>
+    <entry>
+        <title type="html"><![CDATA[被代表的年轻人]]></title>
+        <id>https://pure-s.github.io/darkme.github.io/post/bei-dai-biao-de-nian-qing-ren/</id>
+        <link href="https://pure-s.github.io/darkme.github.io/post/bei-dai-biao-de-nian-qing-ren/">
+        </link>
+        <updated>2020-05-05T05:43:50.000Z</updated>
+        <summary type="html"><![CDATA[<p>这世界上有两种青年</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>这世界上有两种青年</p>
+<!-- more -->
+<p>这世界上有两种青年</p>
+<p>一种生活在宛如赛博朋克的国际都市中，有着博物馆、美术馆、演唱会，连初中老师都是清北毕业,享受着现代生活的一切便利，享受着二十岁同龄人廉价的服务。</p>
+<p>另一种生活在工厂、流水线、农田、工地里，默默、日复一日地劳动，坐在三十米高脚手架上看巨大的火红太阳沉重落下，或者一周六天睁眼工作闭眼工作，却依然被昂贵的生活成本压的抬不起头。</p>
+<p>农村的十八岁孩子有一天走进城市，才蓦然惊觉，电影里赛博朋克的都市原来在时空几百公里外并不遥远的土地上真实存在着，并且有一批十八岁的同龄人就从小生活在那里，习以为常。</p>
+<figure data-type="image" tabindex="1"><img src="https://x0.ifengimg.com/res/2020/558AA8B26C39C705DBAF02819B244456256370FC_size63_w640_h353.jpeg" alt="bilibibi" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[常用markdown备份]]></title>
         <id>https://pure-s.github.io/darkme.github.io/post/chang-yong-markdown-bei-fen/</id>
@@ -119,10 +136,10 @@
 </ol>
 <ul class="contains-task-list">
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8753683"><label class="task-list-item-label" for="task-item-8753683"> 复选框</label></p>
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7066190"><label class="task-list-item-label" for="task-item-7066190"> 复选框</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8632104"><label class="task-list-item-label" for="task-item-8632104"> 复选框</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5521188"><label class="task-list-item-label" for="task-item-5521188"> 复选框</label></p>
 </li>
 </ul>
 <pre><code>&lt;p align=&quot;center&quot;&gt;居中&lt;/p&gt;
