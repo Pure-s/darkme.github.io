@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pure-s.github.io/darkme.github.io/</id>
     <title>Darket的小屋</title>
-    <updated>2020-05-05T15:09:53.949Z</updated>
+    <updated>2020-05-06T09:26:47.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pure-s.github.io/darkme.github.io/"/>
     <link rel="self" href="https://pure-s.github.io/darkme.github.io/atom.xml"/>
@@ -16,9 +16,13 @@
         <link href="https://pure-s.github.io/darkme.github.io/post/towu-han-de-nian-qing-ren/">
         </link>
         <updated>2020-05-06T11:54:20.000Z</updated>
-        <summary type="html"><![CDATA[<p>老罗给武汉年轻人写的，共勉</p>
+        <summary type="html"><![CDATA[<blockquote>
+<p>老罗给武汉年轻人写的，共勉</p>
+</blockquote>
 ]]></summary>
-        <content type="html"><![CDATA[<p>老罗给武汉年轻人写的，共勉</p>
+        <content type="html"><![CDATA[<blockquote>
+<p>老罗给武汉年轻人写的，共勉</p>
+</blockquote>
 <!-- more -->
 <p><audio src="https://m801.music.126.net/20200505202551/dfc3ae25ea32e7fe90943c6280f65d8b/jdyyaac/055f/065a/5458/2557a145a010c9f8b734c2e2fdc3cc09.m4a" controls></audio></p>
 <blockquote>
@@ -42,9 +46,13 @@
         <link href="https://pure-s.github.io/darkme.github.io/post/bei-dai-biao-de-nian-qing-ren/">
         </link>
         <updated>2020-05-05T05:43:50.000Z</updated>
-        <summary type="html"><![CDATA[<p>这世界上有两种青年</p>
+        <summary type="html"><![CDATA[<blockquote>
+<p>电影里赛博朋克的都市原来在时空几百公里外并不遥远的土地上真实存在着</p>
+</blockquote>
 ]]></summary>
-        <content type="html"><![CDATA[<p>这世界上有两种青年</p>
+        <content type="html"><![CDATA[<blockquote>
+<p>电影里赛博朋克的都市原来在时空几百公里外并不遥远的土地上真实存在着</p>
+</blockquote>
 <!-- more -->
 <p><audio src="https://m10.music.126.net/20200505204256/2d5f46e730cdc3f322a4ab3fa28b94df/ymusic/535d/0508/530b/d7cee895d62b513c4b48daa990649a8f.mp3" controls></audio></p>
 <blockquote>
@@ -63,9 +71,13 @@
         <link href="https://pure-s.github.io/darkme.github.io/post/chang-yong-markdown-bei-fen/">
         </link>
         <updated>2020-05-05T05:24:12.000Z</updated>
-        <summary type="html"><![CDATA[<p>markdown排版</p>
+        <summary type="html"><![CDATA[<blockquote>
+<p>markdown排版</p>
+</blockquote>
 ]]></summary>
-        <content type="html"><![CDATA[<p>markdown排版</p>
+        <content type="html"><![CDATA[<blockquote>
+<p>markdown排版</p>
+</blockquote>
 <!-- more -->
 <pre><code># 一级标题
 ## 二级标题
@@ -166,10 +178,10 @@
 </ol>
 <ul class="contains-task-list">
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8522413"><label class="task-list-item-label" for="task-item-8522413"> 复选框</label></p>
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4306219"><label class="task-list-item-label" for="task-item-4306219"> 复选框</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4057390"><label class="task-list-item-label" for="task-item-4057390"> 复选框</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2967402"><label class="task-list-item-label" for="task-item-2967402"> 复选框</label></p>
 </li>
 </ul>
 <pre><code>&lt;p align=&quot;center&quot;&gt;居中&lt;/p&gt;
@@ -201,9 +213,13 @@
         <link href="https://pure-s.github.io/darkme.github.io/post/2020-5-4/">
         </link>
         <updated>2020-05-04T14:35:27.000Z</updated>
-        <summary type="html"><![CDATA[<p>买了个东西还有这么多碎碎念</p>
+        <summary type="html"><![CDATA[<blockquote>
+<p>买了个东西还有这么多碎碎念</p>
+</blockquote>
 ]]></summary>
-        <content type="html"><![CDATA[<p>买了个东西还有这么多碎碎念</p>
+        <content type="html"><![CDATA[<blockquote>
+<p>买了个东西还有这么多碎碎念</p>
+</blockquote>
 <!-- more -->
 <p>今天是我买下纯纯写作的第一天，有人说纯纯写作可能不适合做平常的文本记录，它更适合写长文本写作，但挡不住我对他的喜爱，就是喜欢这样一个纯文本与markdown共存的app，喜欢在纯纯带给我的沉浸的体验和码字不丢失文本的安心，老实说桌面版没给我太多惊喜，还要有诸多完善，也有一段路要走，与其说记录，不如说是实时共享，但也不是不能用，我能感受到开发者对纯纯写作的热情与热爱，我们都希望纯纯写作越来越好，这是一个可以陪伴自己一辈子的app。</p>
 <p>对纯纯写作垂涎了很长时间，终于在捣鼓了好长时间后，爬到美区，买下了他，不得不说是看中了比国区的价格低了很多的这个事实，如果可以我更愿意在国区买，无奈，因此想方设法蹭个优惠，想起去年末打折仅售十几块的时候没有买，到现在这么贵居然想着买下来真的有点犯傻。</p>
