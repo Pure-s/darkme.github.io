@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pure-s.github.io/darkme.github.io/</id>
     <title>Darket的小屋</title>
-    <updated>2020-05-10T02:45:22.272Z</updated>
+    <updated>2020-05-10T11:45:16.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pure-s.github.io/darkme.github.io/"/>
     <link rel="self" href="https://pure-s.github.io/darkme.github.io/atom.xml"/>
@@ -10,6 +10,119 @@
     <logo>https://pure-s.github.io/darkme.github.io/images/avatar.png</logo>
     <icon>https://pure-s.github.io/darkme.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Darket的小屋</rights>
+    <entry>
+        <title type="html"><![CDATA[MD配色]]></title>
+        <id>https://pure-s.github.io/darkme.github.io/post/md-pei-se/</id>
+        <link href="https://pure-s.github.io/darkme.github.io/post/md-pei-se/">
+        </link>
+        <updated>2020-05-10T11:43:34.000Z</updated>
+        <summary type="html"><![CDATA[<p><font color="#FF0000" size=2>颜色备份</font></p>
+]]></summary>
+        <content type="html"><![CDATA[<p><font color="#FF0000" size=2>颜色备份</font></p>
+<!-- more -->
+<ol>
+<li><font color="#FFFFFF">白色</font></li>
+<li><font color="#FF0000">红色</font></li>
+<li><font color="#0000FF">蓝色</font></li>
+<li><font color="#00FF00">绿色</font></li>
+<li><font color="#FF00FF">牡丹红</font></li>
+<li><font color="#00FFFF">青色</font></li>
+<li><font color="#FFFF00">黄色</font></li>
+<li><font color="#000000">黑色</font></li>
+<li><font color="#70DB93">海蓝</font></li>
+<li><font color="#5C3317">巧克力色</font></li>
+<li><font color="#9F5F9F">蓝紫色</font></li>
+<li><font color="#B5A642">黄铜色</font></li>
+<li><font color="#D9D919">亮金色</font></li>
+<li><font color="#A67D3D">棕色</font></li>
+<li><font color="#8C7853">青铜色</font></li>
+<li><font color="#A67D3D"> 2 号青铜色</font></li>
+<li><font color="#5F9F9F">士官服蓝色</font></li>
+<li><font color="#D98719">冷铜色</font></li>
+<li><font color="#B87333">铜色</font></li>
+<li><font color="#FF7F00">珊瑚红</font></li>
+<li><font color="#42426F">紫蓝色</font></li>
+<li><font color="#5C4033">深棕</font></li>
+<li><font color="#2F4F2F">深绿</font></li>
+<li><font color="#4A766E">深铜绿色</font></li>
+<li><font color="#4F4F2F">深橄榄绿</font></li>
+<li><font color="#9932CD">深兰花色</font></li>
+<li><font color="#871F78">深紫色</font></li>
+<li><font color="#6B238E">深石板蓝</font></li>
+<li><font color="#2F4F4F">深铅灰色</font></li>
+<li><font color="#97694F">深棕褐色</font></li>
+<li><font color="#7093DB">深绿松石色</font></li>
+<li><font color="#855E42">暗木色</font></li>
+<li><font color="#545454">淡灰色</font></li>
+<li><font color="#856363">土灰玫瑰红色</font></li>
+<li><font color="#D19275">长石色</font></li>
+<li><font color="#8E2323">火砖色</font></li>
+<li><font color="#238E23">森林绿</font></li>
+<li><font color="#CD7F32">金色</font></li>
+<li><font color="#DBDB70">鲜黄色</font></li>
+<li><font color="#C0C0C0">灰色</font></li>
+<li><font color="#527F76">铜绿色</font></li>
+<li><font color="#93DB70">青黄色</font></li>
+<li><font color="#215E21">猎人绿</font></li>
+<li><font color="#4E2F2F">印度红</font></li>
+<li><font color="#9F9F5F">土黄色</font></li>
+<li><font color="#C0D9D9">浅蓝色</font></li>
+<li><font color="#A8A8A8">浅灰色</font></li>
+<li><font color="#8F8FBD">浅钢蓝色</font></li>
+<li><font color="#E9C2A6">浅木色</font></li>
+<li><font color="#32CD32">石灰绿色</font></li>
+<li><font color=" #E47833">桔黄色</font></li>
+<li><font color="#8E236B">褐红色</font></li>
+<li><font color="#32CD99">中海蓝色</font></li>
+<li><font color="#3232CD">中蓝色</font></li>
+<li><font color="#6B8E23">中森林绿</font></li>
+<li><font color="#EAEAAE">中鲜黄色</font></li>
+<li><font color="#9370DB">中兰花色</font></li>
+<li><font color="#426F42">中海绿色</font></li>
+<li><font color="#7F00FF">中石板蓝色</font></li>
+<li><font color="#7FFF00">中春绿色</font></li>
+<li><font color=" #70DBDB">中绿松石色</font></li>
+<li><font color="#DB7093">中紫红色</font></li>
+<li><font color="#A68064">中木色</font></li>
+<li><font color="#2F2F4F">深藏青色</font></li>
+<li><font color="#23238E">海军蓝</font></li>
+<li><font color="#4D4DFF">霓虹篮</font></li>
+<li><font color=" #FF6EC7">霓虹粉红</font></li>
+<li><font color="#00009C">新深藏青色</font></li>
+<li><font color="#EBC79E">新棕褐色</font></li>
+<li><font color="#CFB53B">暗金黄色</font></li>
+<li><font color="#FF7F00">橙色</font></li>
+<li><font color="#FF2400">橙红色</font></li>
+<li><font color="#DB70DB">淡紫色</font></li>
+<li><font color="#8FBC8F">浅绿色</font></li>
+<li><font color="#BC8F8F">粉红色</font></li>
+<li><font color="#EAADEA">李子色</font></li>
+<li><font color="#D9D9F3">石英色</font></li>
+<li><font color="#5959AB">艳蓝色</font></li>
+<li><font color="#6F4242">鲑鱼色</font></li>
+<li><font color="#BC1717">猩红色</font></li>
+<li><font color="#238E68">海绿色</font></li>
+<li><font color="#6B4226">半甜巧克力色</font></li>
+<li><font color="#8E6B23">赭色</font></li>
+<li><font color="#E6E8FA">银色</font></li>
+<li><font color="#3299CC">天蓝</font></li>
+<li><font color="#007FFF">石板蓝</font></li>
+<li><font color="#FF1CAE">艳粉红色</font></li>
+<li><font color="#00FF7F">春绿色</font></li>
+<li><font color="#236B8E">钢蓝色</font></li>
+<li><font color="#38B0DE">亮天蓝色</font></li>
+<li><font color="#DB9370">棕褐色</font></li>
+<li><font color="#D8BFD8">紫红色</font></li>
+<li><font color="#ADEAEA">石板蓝色</font></li>
+<li><font color="#5C4033">浓深棕色</font></li>
+<li><font color="#CDCDCD">淡浅灰色</font></li>
+<li><font color="#4F2F4F">紫罗兰色</font></li>
+<li><font color="#CC3299">紫罗兰红色</font></li>
+<li><font color="#D8D8BF">麦黄色</font></li>
+<li><font color="#99CC32">黄绿色</font></li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[To：武汉的年轻人]]></title>
         <id>https://pure-s.github.io/darkme.github.io/post/towu-han-de-nian-qing-ren/</id>
@@ -182,10 +295,10 @@
 </ol>
 <ul class="contains-task-list">
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1887569"><label class="task-list-item-label" for="task-item-1887569"> 复选框</label></p>
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9327123"><label class="task-list-item-label" for="task-item-9327123"> 复选框</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7325295"><label class="task-list-item-label" for="task-item-7325295"> 复选框</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5532927"><label class="task-list-item-label" for="task-item-5532927"> 复选框</label></p>
 </li>
 </ul>
 <pre><code>&lt;p align=&quot;center&quot;&gt;居中&lt;/p&gt;
