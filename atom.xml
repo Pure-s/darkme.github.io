@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pure-s.github.io/darkme.github.io/</id>
     <title>Darket的小屋</title>
-    <updated>2020-05-11T13:08:46.958Z</updated>
+    <updated>2020-05-11T13:55:59.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pure-s.github.io/darkme.github.io/"/>
     <link rel="self" href="https://pure-s.github.io/darkme.github.io/atom.xml"/>
@@ -20,7 +20,7 @@
 ]]></summary>
         <content type="html"><![CDATA[<p><font color="red" size=2>电影各版本</font></p>
 <!-- more -->
-<h1 id="一-版本说明">一、版本说明：</h1>
+<h2 id="一-版本说明">一、版本说明：</h2>
 <p><strong>1、CAM（枪版）</strong><br>
 CAM通常是用数码摄像机从电影院盗录。有时会使用小三角架，但大多数时候不可能使用，所以摄像机会抖动。因此我们看到画面通常偏暗人物常常会失真，下方的 字幕时常会出现倾斜。 由于声音是从摄像机自带的话筒录制，所以经常会录到观众的笑声等声音。因为这些因素，图象和声音质量通常都很差。<br>
 <strong>2、TS(准枪版)</strong><br>
@@ -80,7 +80,7 @@ RECODE是以前已经发布过的版本，通常用TMPGenc编码过滤以去除�
 一个发布可能因为多种原因被NUKE掉。有些网站会因为违犯他们的规则而NUKE发布(比如不允许发布TS版本)。但如果发布的版本有很大的问题 (如20分钟没有声音，CD2是错误的电影或游戏)，那么所有的网站都会NUKE这个发布。在这些网站上交换NUKED版本的人会失掉他们的信誉。但 NUKED发布仍然可以通过P2P/USENET传播，所以应该总是首先找到其被NUKE的原因以防万一。如果发布组织发觉他们的发布有问题，他们可以要求NUKE。<br>
 <strong>26、HC</strong><br>
 HC是Hard Core的缩写，意思是视频中包含的硬字幕，非外挂字幕，而是被合成到了视频本身里面。</p>
-<h1 id="二-其它附带版本说明">二、其它附带版本说明：</h1>
+<h2 id="二-其它附带版本说明">二、其它附带版本说明：</h2>
 <p><strong>1、PROPER</strong><br>
 完美版,先前发行的电影质量较差，而这个认为是较好的<br>
 <strong>2、REPACK</strong><br>
@@ -105,11 +105,11 @@ DVD特别版<br>
 同样电影重新RIP<br>
 <strong>12、SUBBED</strong><br>
 有硬字幕</p>
-<h1 id="三-关于高清电影的说明">三、关于高清电影的说明：</h1>
+<h2 id="三-关于高清电影的说明">三、关于高清电影的说明：</h2>
 <p>通常来说，以HDTV、HDDVD以及BluRay为片源的分辨率在720P以上的非RMVB等资源为高清资源，以DVD为片源、或miniSD格式，以及所有的RMVB资源为非高清资源。<br>
 关于分辨率：估计很多人看到720P的资源就觉得这是高清，实际上分辨率并不决定是不是高清，片源才是关键。一般来说，压制组是不会把DVD、CAM、TS版的制作成成1280x720的分辨率的，不过现在无节操的网站太多，各种DVDScr-720P、HDTS-720P、HDCAM-720P，用标题来误导对高清了解不够的人。所以，下载资源之前，看好片源是什么很重要，其次再去关心分辨率吧。<br>
 关于码率：有的BD-720P资源体积才1G，而有的就3G，还有的甚至8G，区别到底是什么？其实，根本原因在电影时长和码率。码率越高，体积越大。移动视频的视频码率在1500kbps左右，一部90分钟的移动视频电影体积1.5G左右，而CMCT、CnSCG等压制的720P电影体积在3G左右，视频码率大概3000kbps。CHD、HDW、Wiki等高清压制组压制的720P，码率很高，因此体积较大，高码率版本收藏的价值更大一些。</p>
-<h1 id="四-rmvb和mkv的区别">四、rmvb和mkv的区别：</h1>
+<h2 id="四-rmvb和mkv的区别">四、rmvb和mkv的区别：</h2>
 <p>常见的RMVB电影体积小的原因是视频、音频码率小，也就是说视频的数据量要少，这是以牺牲画质、音效为代价的。<br>
 MKV，是一种视频封装格式，就是一种容器，它的视频一般都是x264编码，这种编码格式的好处就是在同样的体积下，可以获得比RMVB更好的画质，可是为什么常见的MKV视频都很大呢？因为那些MKV视频的参数都很高，比如视频码率很大，音频用了无损的次世代音轨(光音轨就4G左右)，这样的视频观赏、收藏价值极高！ 也就是说，用MKV和x264可以把视频做的很小，和RMVB一样，只不过这种行为太浪费了，为了更好的画质，所以把MKV和高清一般联系在一起。<br>
 如果你只追求画质，那么选择高码率、高参数的BD-1080P、720P，比如HDW、CHD压制的；要是你的网络不够好，硬盘不够大，那你可以选择低码率的视频，比如CMCT压制的，3G左右；你要是觉得3G都太大了，那就选择半高清视频吧，1.5G左右；要是还不能接受，别担心，还有TLF的MiniSD作品，一个700MB左右，画质尚可。</p>
@@ -400,10 +400,10 @@ MKV，是一种视频封装格式，就是一种容器，它的视频一般都�
 </ol>
 <ul class="contains-task-list">
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1335275"><label class="task-list-item-label" for="task-item-1335275"> 复选框</label></p>
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9486886"><label class="task-list-item-label" for="task-item-9486886"> 复选框</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1016736"><label class="task-list-item-label" for="task-item-1016736"> 复选框</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2520498"><label class="task-list-item-label" for="task-item-2520498"> 复选框</label></p>
 </li>
 </ul>
 <pre><code>&lt;p align=&quot;center&quot;&gt;居中&lt;/p&gt;
