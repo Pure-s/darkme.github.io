@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pure-s.github.io/darkme.github.io/</id>
     <title>Darket的小屋</title>
-    <updated>2020-05-12T08:18:10.433Z</updated>
+    <updated>2020-05-15T15:39:53.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pure-s.github.io/darkme.github.io/"/>
     <link rel="self" href="https://pure-s.github.io/darkme.github.io/atom.xml"/>
@@ -10,6 +10,180 @@
     <logo>https://pure-s.github.io/darkme.github.io/images/avatar.png</logo>
     <icon>https://pure-s.github.io/darkme.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Darket的小屋</rights>
+    <entry>
+        <title type="html"><![CDATA[Windows官方系统]]></title>
+        <id>https://pure-s.github.io/darkme.github.io/post/windows-guan-fang-xi-tong/</id>
+        <link href="https://pure-s.github.io/darkme.github.io/post/windows-guan-fang-xi-tong/">
+        </link>
+        <updated>2020-05-15T15:26:02.000Z</updated>
+        <summary type="html"><![CDATA[<p><font color="red" size=2>MSDN原版系统Onedrive世纪互联不限速下载</font></p>
+]]></summary>
+        <content type="html"><![CDATA[<p><font color="red" size=2>MSDN原版系统Onedrive世纪互联不限速下载</font></p>
+<!-- more -->
+<h3 id="关于onedrive世纪互联">关于onedrive世纪互联</h3>
+<p>和onedrive国际版不同，onedrive世纪互联的服务器在北京和上海，因此不必担心无法访问或者下载速度偏低的问题，理论上是可以跑满整个带宽的。但onedrive有API限制，每个账号每日在700GB左右的下载量就会暂停服务一段时间，如果不是十分着急的话，建议采用ED2K或者BT下载地址。为了避免下载量过多导致链接崩溃，一共用了三个Onedrive世纪互联网盘，即使其中一个受限也可以保证其他两个正常下载。</p>
+<h3 id="win10各镜像区别">Win10各镜像区别</h3>
+<p>Windows 10 business editions VL版（商业大客户版/批量授权版）<br>
+ISO镜像包含以下版本（根据需要选择安装）：专业版、企业版、教育版、专业工作站版、专业教育版<br>
+Windows 10 consumer editions 零售版<br>
+ISO镜像包含以下版本（根据需要选择安装）：家庭版、专业版、教育版、家庭单语言版、专业工作站版、专业教育</p>
+<h3 id="win10各版本区别">Win10各版本区别</h3>
+<p>家庭版(Home)：供家庭用户使用，无法加入Active Directory和Azure AD，不允许远程链接<br>
+专业版(Professional)：供小型企业使用 在家庭版基础上增加了域账号加入、bitlocker、企业商店等功能<br>
+企业版(Enterprise)：供中大型企业使用 在专业版基础上增加了DirectAccess，AppLocker等高级企业功能<br>
+教育版(Education)：供学校使用 (学校职员, 管理人员, 老师和学生) 其功能基本和企业版的一样<br>
+LTSB版：无Edge浏览器、小娜，无磁贴，可选是否下载和安装补丁，其它版都不能自选补丁</p>
+<h3 id="win10-2004商业大客户版-64位">Win10 2004商业大客户版 64位</h3>
+<p>文件: cn_windows_10_business_editions_version_2004_x64_dvd_c59a4f91.iso<br>
+大小: 5527756800 字节<br>
+MD5: 3C4DA086657215C8D2729259DB7EF7BD<br>
+SHA1: ED65CC6F3B4F90FDBDAB949BA6286708E8DCF0F1</p>
+<p>世纪互联分流地址<br>
+https://pan.tangmn.cn/show/1/MSDN/cn_windows_10_business_editions_version_2004_x64_dvd_c59a4f91.iso<br>
+https://pan.tangmn.cn/show/4/MSDN/cn_windows_10_business_editions_version_2004_x64_dvd_c59a4f91.iso<br>
+https://pan.tangmn.cn/show/16/MSDN/cn_windows_10_business_editions_version_2004_x64_dvd_c59a4f91.iso</p>
+<h3 id="win10-2004商业大客户版-32位">Win10 2004商业大客户版 32位</h3>
+<p>文件: cn_windows_10_business_editions_version_2004_x86_dvd_16dd936b.iso<br>
+大小: 3648514048 字节<br>
+MD5: 25DC7C4974F6CAF44EA5F0C89C31C0C5<br>
+SHA1: 5E8D355DB00D647F96E57AB0FA9518752C1E32AF</p>
+<p>世纪互联分流地址<br>
+https://pan.tangmn.cn/show/1/MSDN/cn_windows_10_business_editions_version_2004_x86_dvd_16dd936b.iso<br>
+https://pan.tangmn.cn/show/4/MSDN/cn_windows_10_business_editions_version_2004_x86_dvd_16dd936b.iso<br>
+https://pan.tangmn.cn/show/16/MSDN/cn_windows_10_business_editions_version_2004_x86_dvd_16dd936b.iso</p>
+<h3 id="win10-2004零售版-64位">Win10 2004零售版 64位</h3>
+<p>文件: cn_windows_10_consumer_editions_version_2004_x64_dvd_0c2eefdb.iso<br>
+大小: 5634521088 字节<br>
+MD5: 6BB51E57E7C2EC0C9DE7ABFFF8A9E7A6<br>
+SHA1: 64940D6FBC0F24971349C8E03BE508285EA29722</p>
+<p>世纪互联分流地址<br>
+https://pan.tangmn.cn/show/1/MSDN/cn_windows_10_consumer_editions_version_2004_x64_dvd_0c2eefdb.iso<br>
+https://pan.tangmn.cn/show/4/MSDN/cn_windows_10_consumer_editions_version_2004_x64_dvd_0c2eefdb.iso<br>
+https://pan.tangmn.cn/show/16/MSDN/cn_windows_10_consumer_editions_version_2004_x64_dvd_0c2eefdb.iso</p>
+<h3 id="win10-2004零售版-32位">Win10 2004零售版 32位</h3>
+<p>文件: cn_windows_10_consumer_editions_version_2004_x86_dvd_f9233032.iso<br>
+大小: 3717070848 字节<br>
+MD5: 8DD86A1A45CD1B0C4CB6DAF64E34C067<br>
+SHA1: E85C5BBA63858B37ECBE8270A308B0369BE87D0B</p>
+<p>世纪互联分流地址<br>
+https://pan.tangmn.cn/show/1/MSDN/cn_windows_10_consumer_editions_version_2004_x86_dvd_f9233032.iso<br>
+https://pan.tangmn.cn/show/4/MSDN/cn_windows_10_consumer_editions_version_2004_x86_dvd_f9233032.iso<br>
+https://pan.tangmn.cn/show/16/MSDN/cn_windows_10_consumer_editions_version_2004_x86_dvd_f9233032.iso</p>
+<h3 id="win10-1909商业大客户版-64位-2020年4月更新">Win10 1909商业大客户版 64位 2020年4月更新</h3>
+<p>文件：cn_windows_10_business_editions_version_1909_updated_april_2020_x64_dvd_5d3fcf2e.iso<br>
+大小：5.05GB<br>
+MD5：0B4B736177739F3DA75F0A3E53F24D08<br>
+SHA1：7E62BA8BC2DCDFB970F5B77965F0D08D6228DA1A<br>
+SHA256：85B544BE019D9335D137F58B3442BB1150ECC2520C2C168717765A0B9D734394</p>
+<p>BT种子下载<br>
+magnet:?xt=urn:btih:CACC1E9EEC070BE56F939863E189EAE3116F98E4&amp;dn=cn_windows_10_business_editions_version_1909_updated_april_2020_x64_dvd_5d3fcf2e.iso&amp;xl=5420953600</p>
+<p>世纪互联分流地址<br>
+https://pan.tangmn.cn/show/1/MSDN/cn_windows_10_business_editions_version_1909_updated_april_2020_x64_dvd_5d3fcf2e.iso<br>
+https://pan.tangmn.cn/show/4/MSDN/cn_windows_10_business_editions_version_1909_updated_april_2020_x64_dvd_5d3fcf2e.iso<br>
+https://pan.tangmn.cn/show/16/MSDN/cn_windows_10_business_editions_version_1909_updated_april_2020_x64_dvd_5d3fcf2e.iso</p>
+<h3 id="win10-1909商业大客户版-32位-2020年4月更新">Win10 1909商业大客户版 32位 2020年4月更新</h3>
+<p>文件：cn_windows_10_business_editions_version_1909_updated_april_2020_x86_dvd_20841959.iso<br>
+大小：3.65GB<br>
+MD5：481CCF98046A8C6DD5409B2EB2C1DC0C<br>
+SHA1：6A93B92793E0875CEC951E2096D97B348B9A5879<br>
+SHA256：B6409A03203C5DE6B3A9EA4A1E7B699B27DC127BEFBE4FDC8B2B9FBEB55D284D</p>
+<p>BT种子下载<br>
+magnet:?xt=urn:btih:62228A9B3D6A0642449525DABCA0035F37E959E9&amp;dn=cn_windows_10_business_editions_version_1909_updated_april_2020_x86_dvd_20841959.iso&amp;xl=3923351552</p>
+<p>世纪互联分流地址<br>
+https://pan.tangmn.cn/show/1/MSDN/cn_windows_10_business_editions_version_1909_updated_april_2020_x86_dvd_20841959.iso<br>
+https://pan.tangmn.cn/show/4/MSDN/cn_windows_10_business_editions_version_1909_updated_april_2020_x86_dvd_20841959.iso<br>
+https://pan.tangmn.cn/show/16/MSDN/cn_windows_10_business_editions_version_1909_updated_april_2020_x86_dvd_20841959.iso</p>
+<h3 id="win10-1909零售版-64位-2020年4月更新">Win10 1909零售版 64位 2020年4月更新</h3>
+<p>文件：cn_windows_10_consumer_editions_version_1909_updated_april_2020_x64_dvd_d4f1cee8.iso<br>
+大小：5.16GB<br>
+MD5：C587E23C5CFEBF553B01D2ED78950223<br>
+SHA1：6CEF4FCCD7556D8F9BB112F636C3ECDBD2F5278C<br>
+SHA256：3BA759CB91A1D7F363B8C81618954968824BB7F53776930816109F36620D17C9</p>
+<p>BT种子下载<br>
+magnet:?xt=urn:btih:3930A26F87080C3996AF0C67CAB04A02739EE006&amp;dn=cn_windows_10_consumer_editions_version_1909_updated_april_2020_x64_dvd_d4f1cee8.iso&amp;xl=5536696320</p>
+<p>世纪互联分流地址<br>
+https://pan.tangmn.cn/show/1/MSDN/cn_windows_10_consumer_editions_version_1909_updated_april_2020_x64_dvd_d4f1cee8.iso<br>
+https://pan.tangmn.cn/show/4/MSDN/cn_windows_10_consumer_editions_version_1909_updated_april_2020_x64_dvd_d4f1cee8.iso<br>
+https://pan.tangmn.cn/show/16/MSDN/cn_windows_10_consumer_editions_version_1909_updated_april_2020_x64_dvd_d4f1cee8.iso</p>
+<h3 id="win10-1909零售版-32位-2020年4月更新">Win10 1909零售版 32位 2020年4月更新</h3>
+<p>文件：cn_windows_10_consumer_editions_version_1909_updated_april_2020_x86_dvd_1a597dcc.iso<br>
+大小：3.73GB<br>
+MD5：E0DC9E9E98D122DA72F4DAA6228C6D89<br>
+SHA1：611D5E68936B4CEA6DF6DCAAC1730C9F83F7DA67<br>
+SHA256：F25D936BC6F27CA3B3F8ED930CB6A4ABCBC477CFA6E6B690487B844D8565DD8D</p>
+<p>BT种子下载<br>
+magnet:?xt=urn:btih:C23F238C81BAB1444646A37018031DFEDB0CA65D&amp;dn=cn_windows_10_consumer_editions_version_1909_updated_april_2020_x86_dvd_1a597dcc.iso&amp;xl=4001820672</p>
+<p>世纪互联分流地址<br>
+https://pan.tangmn.cn/show/1/MSDN/cn_windows_10_consumer_editions_version_1909_updated_april_2020_x86_dvd_1a597dcc.iso<br>
+https://pan.tangmn.cn/show/4/MSDN/cn_windows_10_consumer_editions_version_1909_updated_april_2020_x86_dvd_1a597dcc.iso<br>
+https://pan.tangmn.cn/show/16/MSDN/cn_windows_10_consumer_editions_version_1909_updated_april_2020_x86_dvd_1a597dcc.iso</p>
+<h3 id="win10-ltsc-2019-64位">Win10 LTSC 2019 64位</h3>
+<p>文件：cn_windows_10_enterprise_ltsc_2019_x64_dvd_9c09ff24.iso<br>
+大小：4.17GB<br>
+SHA1：24b59706d5eded392423936c82ba5a83596b50cc</p>
+<p>世纪互联分流地址<br>
+https://pan.tangmn.cn/show/1/MSDN/cn_windows_10_enterprise_ltsc_2019_x64_dvd_9c09ff24.iso<br>
+https://pan.tangmn.cn/show/4/MSDN/cn_windows_10_enterprise_ltsc_2019_x64_dvd_9c09ff24.iso<br>
+https://pan.tangmn.cn/show/16/MSDN/cn_windows_10_enterprise_ltsc_2019_x64_dvd_9c09ff24.iso</p>
+<h3 id="win10-ltsc-2019-32位">Win10 LTSC 2019 32位</h3>
+<p>文件：cn_windows_10_enterprise_ltsc_2019_x86_dvd_1814dbab.iso<br>
+大小：2.98GB<br>
+SHA1：ba2169edd94f123211cd4aaca68352f1ab6195d9</p>
+<p>世纪互联分流地址<br>
+https://pan.tangmn.cn/show/1/MSDN/cn_windows_10_enterprise_ltsc_2019_x86_dvd_1814dbab.iso<br>
+https://pan.tangmn.cn/show/4/MSDN/cn_windows_10_enterprise_ltsc_2019_x86_dvd_1814dbab.iso<br>
+https://pan.tangmn.cn/show/16/MSDN/cn_windows_10_enterprise_ltsc_2019_x86_dvd_1814dbab.iso</p>
+<h3 id="win10-1903商业大客户版-64位-2019年11月更新">Win10 1903商业大客户版 64位 2019年11月更新</h3>
+<p>文件：cn_windows_10_business_editions_version_1903_updated_nov_2019_x64_dvd_59670fa0.iso<br>
+大小：4.94GB<br>
+SHA1：b27ee26dd4a486aa290f060c79302ddb71f039c2</p>
+<p>世纪互联分流地址<br>
+https://pan.tangmn.cn/show/1/MSDN/cn_windows_10_business_editions_version_1903_updated_nov_2019_x64_dvd_59670fa0.iso<br>
+https://pan.tangmn.cn/show/4/MSDN/cn_windows_10_business_editions_version_1903_updated_nov_2019_x64_dvd_59670fa0.iso<br>
+https://pan.tangmn.cn/show/16/MSDN/cn_windows_10_business_editions_version_1903_updated_nov_2019_x64_dvd_59670fa0.iso</p>
+<h3 id="win10-1903零售版-64位-2019年11月更新">Win10 1903零售版 64位 2019年11月更新</h3>
+<p>文件：cn_windows_10_consumer_editions_version_1903_updated_nov_2019_x64_dvd_055b3530.iso<br>
+大小：5.04GB<br>
+SHA1：84ceabc065b49a54334da4ed540630fa4a66ad66</p>
+<p>世纪互联分流地址<br>
+https://pan.tangmn.cn/show/1/MSDN/cn_windows_10_consumer_editions_version_1903_updated_nov_2019_x64_dvd_055b3530.iso<br>
+https://pan.tangmn.cn/show/4/MSDN/cn_windows_10_consumer_editions_version_1903_updated_nov_2019_x64_dvd_055b3530.iso<br>
+https://pan.tangmn.cn/show/16/MSDN/cn_windows_10_consumer_editions_version_1903_updated_nov_2019_x64_dvd_055b3530.iso</p>
+<h3 id="win10-1809商业大客户版-64位-2019年9月更新">Win10 1809商业大客户版 64位 2019年9月更新</h3>
+<p>文件：cn_windows_10_business_editions_version_1809_updated_sept_2019_x64_dvd_f873d037.iso<br>
+大小：5.07GB<br>
+SHA1：975f1b3acbeece56b5ad1526345a0657109f4043</p>
+<p>世纪互联分流地址<br>
+https://pan.tangmn.cn/show/1/MSDN/cn_windows_10_business_editions_version_1809_updated_sept_2019_x64_dvd_f873d037.iso<br>
+https://pan.tangmn.cn/show/4/MSDN/cn_windows_10_business_editions_version_1809_updated_sept_2019_x64_dvd_f873d037.iso<br>
+https://pan.tangmn.cn/show/16/MSDN/cn_windows_10_business_editions_version_1809_updated_sept_2019_x64_dvd_f873d037.iso</p>
+<h3 id="win10-1809零售版-64位-2019年9月更新">Win10 1809零售版 64位 2019年9月更新</h3>
+<p>文件：cn_windows_10_consumer_editions_version_1809_updated_sept_2019_x64_dvd_ecb7b897.iso<br>
+大小：5.19GB<br>
+SHA1：86bb431c68f38aeecaf925c8c42d130f5e747c02</p>
+<p>世纪互联分流地址<br>
+https://pan.tangmn.cn/show/1/MSDN/cn_windows_10_consumer_editions_version_1809_updated_sept_2019_x64_dvd_ecb7b897.iso<br>
+https://pan.tangmn.cn/show/4/MSDN/cn_windows_10_consumer_editions_version_1809_updated_sept_2019_x64_dvd_ecb7b897.iso<br>
+https://pan.tangmn.cn/show/16/MSDN/cn_windows_10_consumer_editions_version_1809_updated_sept_2019_x64_dvd_ecb7b897.iso</p>
+<h3 id="win10-1803商业大客户版-64位-2019年9月更新">Win10 1803商业大客户版 64位 2019年9月更新</h3>
+<p>文件：cn_windows_10_business_editions_version_1803_updated_sept_2019_x64_dvd_91248a41.iso<br>
+大小：4.99GB<br>
+SHA1：02422641f2e9ff5d03158d1deba4f60e0334e598</p>
+<p>世纪互联分流地址<br>
+https://pan.tangmn.cn/show/1/MSDN/cn_windows_10_business_editions_version_1803_updated_sept_2019_x64_dvd_91248a41.iso<br>
+https://pan.tangmn.cn/show/4/MSDN/cn_windows_10_business_editions_version_1803_updated_sept_2019_x64_dvd_91248a41.iso<br>
+https://pan.tangmn.cn/show/16/MSDN/cn_windows_10_business_editions_version_1803_updated_sept_2019_x64_dvd_91248a41.iso</p>
+<h3 id="win10-1803零售版-64位-2019年9月更新">Win10 1803零售版 64位 2019年9月更新</h3>
+<p>文件：cn_windows_10_consumer_editions_version_1803_updated_sept_2019_x64_dvd_56edef2c.iso<br>
+大小：5.06GB<br>
+SHA1：3d86bfb2359fb6f58f196fc2146b0cfa9571b357</p>
+<p>世纪互联分流地址<br>
+https://pan.tangmn.cn/show/1/MSDN/cn_windows_10_consumer_editions_version_1803_updated_sept_2019_x64_dvd_56edef2c.iso<br>
+https://pan.tangmn.cn/show/4/MSDN/cn_windows_10_consumer_editions_version_1803_updated_sept_2019_x64_dvd_56edef2c.iso<br>
+https://pan.tangmn.cn/show/16/MSDN/cn_windows_10_consumer_editions_version_1803_updated_sept_2019_x64_dvd_56edef2c.iso</p>
+<p><a href="https://www.52pojie.cn/thread-1179166-1-1.html">来源：52PJ</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[正轨]]></title>
         <id>https://pure-s.github.io/darkme.github.io/post/zheng-gui/</id>
@@ -466,10 +640,10 @@ MKV，是一种视频封装格式，就是一种容器，它的视频一般都�
 </ol>
 <ul class="contains-task-list">
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-271692"><label class="task-list-item-label" for="task-item-271692"> 复选框</label></p>
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1830681"><label class="task-list-item-label" for="task-item-1830681"> 复选框</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8046873"><label class="task-list-item-label" for="task-item-8046873"> 复选框</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4649296"><label class="task-list-item-label" for="task-item-4649296"> 复选框</label></p>
 </li>
 </ul>
 <pre><code>&lt;p align=&quot;center&quot;&gt;居中&lt;/p&gt;

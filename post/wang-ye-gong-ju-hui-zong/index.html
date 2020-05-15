@@ -15,7 +15,7 @@
      <div class="sidebar animated fadeInDown">
    <div class="logo-title">
     <div class="title">
-     <img src="https://pure-s.github.io/darkme.github.io//images/avatar.png?v=1589271486935" style="width:127px;" />
+     <img src="https://pure-s.github.io/darkme.github.io//images/avatar.png?v=1589557150858" style="width:127px;" />
 
      <div class="description">
       <p><font color=black size=3>恰似春风相欺得，夜来吹折数枝花</font></p>
@@ -137,25 +137,14 @@ https://zh-hans.ipshu.com/my_info</p>
         </div>
        </div>
       </div>
-<!--载入js，在</body>之前插入即可-->
-    <!--Leancloud 操作库:-->
-    <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-    <!--Valine 的核心代码库-->
-    <script src="/media/scripts/Valine.min.js"></script>
-<div class="comment"></div>
-<script>
-    new Valine({
-        // AV 对象来自上面引入av-min.js(老司机们不要开车➳♡゛扎心了老铁)
-        av: AV, 
-        el: '.comment',
-	      lang: 'zh-cn',//设置评论语言
-        emoticon_url: 'https://cloud.panjunwen.com/alu',
-  emoticon_list: ["狂汗.png","不说话.png","汗.png","坐等.png","献花.png","不高兴.png","中刀.png","害羞.png","皱眉.png","小眼睛.png","暗地观察.png"],
-  app_id: 'RbxGjcPlslHPcnUSbFqlntOy-gzGzoHsz',
-  app_key: 'WCTay2GFLkXtd1BVU9PA3vLJ',
-  placeholder: '评论留言'
-    });
-</script>    
+<div id="vcomments"></div>
+    <script>
+        new Valine({
+            el: '#vcomments',
+            appId: '<RbxGjcPlslHPcnUSbFqlntOy-gzGzoHsz>',
+            appKey: '<WCTay2GFLkXtd1BVU9PA3vLJ>'
+        })
+    </script>  
       <div class="share">
        <div class="evernote">
         <a class="fa fa-bookmark" href="javascript:(function(){EN_CLIP_HOST='http://www.evernote.com';try{var%20x=document.createElement('SCRIPT');x.type='text/javascript';x.src=EN_CLIP_HOST+'/public/bookmarkClipper.js?'+(new%20Date().getTime()/100000);document.getElementsByTagName('head')[0].appendChild(x);}catch(e){location.href=EN_CLIP_HOST+'/clip.action?url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title);}})();" ref="nofollow" target="_blank"></a>
