@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pure-s.github.io/darkme.github.io/</id>
     <title>Darket的小屋</title>
-    <updated>2020-05-16T12:31:40.653Z</updated>
+    <updated>2020-05-20T12:42:18.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pure-s.github.io/darkme.github.io/"/>
     <link rel="self" href="https://pure-s.github.io/darkme.github.io/atom.xml"/>
@@ -10,6 +10,87 @@
     <logo>https://pure-s.github.io/darkme.github.io/images/avatar.png</logo>
     <icon>https://pure-s.github.io/darkme.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Darket的小屋</rights>
+    <entry>
+        <title type="html"><![CDATA[play商店]]></title>
+        <id>https://pure-s.github.io/darkme.github.io/post/play-shang-dian/</id>
+        <link href="https://pure-s.github.io/darkme.github.io/post/play-shang-dian/">
+        </link>
+        <updated>2020-05-20T12:39:17.000Z</updated>
+        <summary type="html"><![CDATA[<p><font color="red" size=2>5月play商店支出</font></p>
+]]></summary>
+        <content type="html"><![CDATA[<p><font color="red" size=2>5月play商店支出</font></p>
+<!-- more -->
+<figure data-type="image" tabindex="1"><img src="http://pan-yz.chaoxing.com/preview/showpreview_469966147480186880.html?v=1589978312000" alt="play商店" loading="lazy"></figure>
+<ol>
+<li>pure writer</li>
+<li>小象记账</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AdGuard]]></title>
+        <id>https://pure-s.github.io/darkme.github.io/post/adguard/</id>
+        <link href="https://pure-s.github.io/darkme.github.io/post/adguard/">
+        </link>
+        <updated>2020-05-18T03:08:48.000Z</updated>
+        <summary type="html"><![CDATA[<p><font color="red" size=2>去广告</font></p>
+]]></summary>
+        <content type="html"><![CDATA[<p><font color="red" size=2>去广告</font></p>
+<!-- more -->
+<p>EasyList<br>
+去除国际网页中大多数广告，包括不需要的框架、图像和对象<br>
+链接 https://easylist-downloads.adblockplus.org/easylist.txt</p>
+<p>EasyList China<br>
+EasyList针对国内的补充规则<br>
+链接 https://easylist-downloads.adblockplus.org/easylistchina.txt</p>
+<p>EasyPrivacy<br>
+从网络上上完全删除所有形式的跟踪，包括Web错误、跟踪脚本和信息收集，从而保护您的个人数据<br>
+链接 https://easylist-downloads.adblockplus.org/easyprivacy.txt</p>
+<p>EasyList Cookie List<br>
+阻止Cookie标语，GDPR覆盖窗口和其他与隐私相关的通知<br>
+链接 https://easylist-downloads.adblockplus.org/easylist-cookie.txt</p>
+<p>Anti-AD<br>
+目前中文区命中率最高的广告过滤列表，实现了精确的广告屏蔽和隐私保护</p>
+<p>屏蔽广告域名、电视盒子广告、APP内置广告，同时屏蔽了一些日志收集、大数据统计等涉及个人隐私信息的站点，能够保护个人隐私不被偷偷上传<br>
+链接 https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt</p>
+<p>Adbyby<br>
+链接 https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt<br>
+链接 https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/video.txt</p>
+<p>CJX's Annoyance List<br>
+过滤烦人的自我推广，并补充 EasyPrivacy 隐私规则<br>
+链接 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt</p>
+<p>I don't care about cookies<br>
+屏蔽网站的 cookies 相关的警告<br>
+链接 https://www.i-dont-care-about-cookies.eu/abp/</p>
+<p>广告净化器规则<br>
+过滤国内大部分视频网站的广告<br>
+链接 http://tools.yiclear.com/ChinaList2.0.txt</p>
+<p>知乎过滤器<br>
+去除开屏、时间轴、首页推荐、回答列表、回答底部及评论区广告，个人中心VIP横幅<br>
+去除知乎会员推荐的内容（严格版）<br>
+标准版 https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu.txt<br>
+严格版 https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu-strict.txt</p>
+<p>Hosts过滤器<br>
+大圣净化 - 针对国内视频网站<br>
+链接 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts</p>
+<p>1024_hosts - 1024网站和澳门皇家赌场<br>
+链接 https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts</p>
+<p>Google hosts - 提高网站访问速度<br>
+链接 https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts</p>
+<p>Hblock - 综合多种源集合体屏蔽广告跟踪和恶意软件<br>
+链接 https://hblock.molinero.xyz/hosts</p>
+<p>Mvps - 屏蔽美欧地区英文网站相关的广告<br>
+链接 http://winhelp2002.mvps.org/hosts.txt</p>
+<p>neoHosts - 国内屏蔽挖矿统计JS&amp;360&amp;百度&amp;法轮功等<br>
+链接 https://hosts.nfz.moe/full/hosts</p>
+<p>StevenBlack - 屏蔽国外网站广告-国外维护<br>
+链接 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts</p>
+<p>yhosts - 屏蔽国内网站广告-国内维护<br>
+链接 https://raw.githubusercontent.com/vokins/yhosts/master/hosts</p>
+<p>YousList - 屏蔽韩国网站广告<br>
+链接 https://raw.githubusercontent.com/yous/YousList/master/hosts.txt</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows官方系统]]></title>
         <id>https://pure-s.github.io/darkme.github.io/post/windows-guan-fang-xi-tong/</id>
@@ -640,10 +721,10 @@ MKV，是一种视频封装格式，就是一种容器，它的视频一般都�
 </ol>
 <ul class="contains-task-list">
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1236104"><label class="task-list-item-label" for="task-item-1236104"> 复选框</label></p>
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-138532"><label class="task-list-item-label" for="task-item-138532"> 复选框</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6006762"><label class="task-list-item-label" for="task-item-6006762"> 复选框</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3951225"><label class="task-list-item-label" for="task-item-3951225"> 复选框</label></p>
 </li>
 </ul>
 <pre><code>&lt;p align=&quot;center&quot;&gt;居中&lt;/p&gt;
@@ -667,22 +748,6 @@ MKV，是一种视频封装格式，就是一种容器，它的视频一般都�
 <figure data-type="image" tabindex="1"><img src="https://seeres.com/img/seeres-logo.png" alt="图片" loading="lazy"></figure>
 <pre><code>代码块
 </code></pre>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于纯纯写作]]></title>
-        <id>https://pure-s.github.io/darkme.github.io/post/2020-5-4/</id>
-        <link href="https://pure-s.github.io/darkme.github.io/post/2020-5-4/">
-        </link>
-        <updated>2020-05-04T14:35:27.000Z</updated>
-        <summary type="html"><![CDATA[<p><font color=red size=2>买了个东西还有这么多碎碎念</font></p>
-]]></summary>
-        <content type="html"><![CDATA[<p><font color=red size=2>买了个东西还有这么多碎碎念</font></p>
-<!-- more -->
-<p>今天是我买下纯纯写作的第一天，有人说纯纯写作可能不适合做平常的文本记录，它更适合写长文本写作，但挡不住我对他的喜爱，就是喜欢这样一个纯文本与markdown共存的app，喜欢在纯纯带给我的沉浸的体验和码字不丢失文本的安心，老实说桌面版没给我太多惊喜，还要有诸多完善，也有一段路要走，与其说记录，不如说是实时共享，但也不是不能用，我能感受到开发者对纯纯写作的热情与热爱，我们都希望纯纯写作越来越好，这是一个可以陪伴自己一辈子的app。</p>
-<p>对纯纯写作垂涎了很长时间，终于在捣鼓了好长时间后，爬到美区，买下了他，不得不说是看中了比国区的价格低了很多的这个事实，如果可以我更愿意在国区买，无奈，因此想方设法蹭个优惠，想起去年末打折仅售十几块的时候没有买，到现在这么贵居然想着买下来真的有点犯傻。</p>
-<p>说实话解锁pro版后，我并没有体验到太多与免费版不同的地方，除了markdown预览，自定义背景，状态栏沉浸，以及自定义字体等，随着上手时间越长，我的热情也慢慢淡了下来，我相信它会是我接下来的写作利器，也会是我生活的好助手，但我仍不可避免感到一点后悔，不可避免思考一时冲动的得失。</p>
-<p>诚然，我一直在找一个心仪的记录生活的利器，但是到目前仍然没有一个结果，我想要的诸如有有道云的网页剪藏，也想要石墨文档的实时同步，想要便签的诸多自定义，还想要很多能给我惊喜的不起眼的小功能，但是很遗憾到现在为止没有一个app能让我特别满意，我当然是站在自己的角度去思考，开发者当然也应该照顾大多数人的意见，但是不妨碍我仍然觉得纯纯写作是Android端我用着的特别舒适的记录软件，希望纯纯写作能让我觉得值得，也希望纯纯写作越来越好。</p>
 ]]></content>
     </entry>
 </feed>
