@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pure-s.github.io/darkme.github.io/</id>
     <title>Darket的小屋</title>
-    <updated>2020-05-25T10:41:45.733Z</updated>
+    <updated>2020-05-30T14:06:49.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pure-s.github.io/darkme.github.io/"/>
     <link rel="self" href="https://pure-s.github.io/darkme.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://pure-s.github.io/darkme.github.io/images/avatar.png</logo>
     <icon>https://pure-s.github.io/darkme.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Darket的小屋</rights>
+    <entry>
+        <title type="html"><![CDATA[日本排版歌]]></title>
+        <id>https://pure-s.github.io/darkme.github.io/post/ri-ben-pai-ban-ge/</id>
+        <link href="https://pure-s.github.io/darkme.github.io/post/ri-ben-pai-ban-ge/">
+        </link>
+        <updated>2020-05-30T14:03:29.000Z</updated>
+        <summary type="html"><![CDATA[<p><font color="red" size=2>论排版的重要性</font></p>
+]]></summary>
+        <content type="html"><![CDATA[<p><font color="red" size=2>论排版的重要性</font></p>
+<!-- more -->
+<iframe src="http://upos-hz-mirrorakam.akamaized.net/upgcxcode/68/03/192350368/192350368-1-192.mp4?e=ig8euxZM2rNcNbRMnWdVhwdlhWKHhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1590854567&gen=playurl&os=akam&oi=1358682139&trid=42a0e8b3cd8242e9bf7ca84b66d15422T&platform=html5&upsig=a63cd30d4102021eb4607b8a12949fab&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&hdnts=exp=1590854567~hmac=33b6e90c9697f1bcad61bbe291b5433a40c543af2bddd8afb84b1812b511a627&mid=0&orderid=0,1&logo=80000000" width="100%" height=400></iframe>  
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[play商店]]></title>
         <id>https://pure-s.github.io/darkme.github.io/post/play-shang-dian/</id>
@@ -611,144 +624,6 @@ MKV，是一种视频封装格式，就是一种容器，它的视频一般都�
 <p>另一种生活在工厂、流水线、农田、工地里，默默、日复一日地劳动，坐在三十米高脚手架上看巨大的火红太阳沉重落下，或者一周六天睁眼工作闭眼工作，却依然被昂贵的生活成本压的抬不起头。</p>
 <p>农村的十八岁孩子有一天走进城市，才蓦然惊觉，电影里赛博朋克的都市原来在时空几百公里外并不遥远的土地上真实存在着，并且有一批十八岁的同龄人就从小生活在那里，习以为常。</p>
 <figure data-type="image" tabindex="1"><img src="https://x0.ifengimg.com/res/2020/558AA8B26C39C705DBAF02819B244456256370FC_size63_w640_h353.jpeg" alt="bilibibi" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[常用markdown备份]]></title>
-        <id>https://pure-s.github.io/darkme.github.io/post/chang-yong-markdown-bei-fen/</id>
-        <link href="https://pure-s.github.io/darkme.github.io/post/chang-yong-markdown-bei-fen/">
-        </link>
-        <updated>2020-05-05T05:24:12.000Z</updated>
-        <summary type="html"><![CDATA[<p><font color=red size=2>markdown排版</font></p>
-]]></summary>
-        <content type="html"><![CDATA[<p><font color=red size=2>markdown排版</font></p>
-<!-- more -->
-<pre><code># 一级标题
-## 二级标题
-### 三级标题
-#### 四级标题
-##### 五级标题
-###### 六级标题
-</code></pre>
-<h1 id="一级标题">一级标题</h1>
-<h2 id="二级标题">二级标题</h2>
-<h3 id="三级标题">三级标题</h3>
-<h4 id="四级标题">四级标题</h4>
-<h5 id="五级标题">五级标题</h5>
-<h6 id="六级标题">六级标题</h6>
-<hr>
-<pre><code>**加粗**
-</code></pre>
-<p><strong>加粗</strong></p>
-<pre><code>*斜体*
-</code></pre>
-<p><em>斜体</em></p>
-<pre><code>~~删除线~~
-</code></pre>
-<p><s>删除线</s></p>
-<pre><code>++下划线++
-</code></pre>
-<p>++下划线++</p>
-<pre><code>==语法高亮==
-</code></pre>
-<p><mark>语法高亮</mark></p>
-<pre><code>谷歌又名[Google][1]
-
-酷安又名[CoolAPK][2]
-
-[1]:www.google.com &quot;Google&quot;
-[2]:www.coolapk.com &quot;CoolAPK&quot;
-</code></pre>
-<p>谷歌又名<a href="www.google.com" title="Google">Google</a></p>
-<p>酷安又名<a href="www.coolapk.com" title="CoolAPK">CoolAPK</a></p>
-<pre><code>&gt; 一级引用
-&gt;&gt; 二级引用
-&gt;&gt;&gt; 三级引用
-</code></pre>
-<blockquote>
-<p>一级引用</p>
-<blockquote>
-<p>二级引用</p>
-<blockquote>
-<p>三级引用</p>
-</blockquote>
-</blockquote>
-</blockquote>
-<pre><code>### 表格
-| 表格 | 格式  | 语法 |
-| ---: | :---: | :--- |
-| 居右 | 居中  | 居左 |
-|  12  |  12   |  12  |
-|   A  |   b   |  c   |
-</code></pre>
-<h3 id="表格">表格</h3>
-<table>
-<thead>
-<tr>
-<th style="text-align:right">表格</th>
-<th style="text-align:center">格式</th>
-<th style="text-align:left">语法</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:right">居右</td>
-<td style="text-align:center">居中</td>
-<td style="text-align:left">居左</td>
-</tr>
-<tr>
-<td style="text-align:right">12</td>
-<td style="text-align:center">12</td>
-<td style="text-align:left">12</td>
-</tr>
-<tr>
-<td style="text-align:right">A</td>
-<td style="text-align:center">b</td>
-<td style="text-align:left">c</td>
-</tr>
-</tbody>
-</table>
-<pre><code>1. 有序列表
-
-- [ ] 复选框
-
-- [x] 复选框
-</code></pre>
-<ul>
-<li>无序列表</li>
-</ul>
-<ol>
-<li>有序列表</li>
-</ol>
-<ul class="contains-task-list">
-<li class="task-list-item">
-<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1987044"><label class="task-list-item-label" for="task-item-1987044"> 复选框</label></p>
-</li>
-<li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4069255"><label class="task-list-item-label" for="task-item-4069255"> 复选框</label></p>
-</li>
-</ul>
-<pre><code>&lt;p align=&quot;center&quot;&gt;居中&lt;/p&gt;
-&lt;p align=&quot;left&quot;&gt;左对齐&lt;/p&gt;
-&lt;p align=&quot;right&quot;&gt;右对齐&lt;/p&gt;
-
-&lt;font color=red size=5&gt;红色&lt;/font&gt;
-
-&lt;font color=blue size=3&gt;蓝色&lt;/font&gt;
-</code></pre>
-<p align="center">居中</p>
-<p align="left">左对齐</p>
-<p align="right">右对齐</p>
-<p><font color=red size=5>红色</font></p>
-<p><font color=blue size=3>蓝色</font></p>
-<pre><code>[超链接](https://www.cnblogs.com/EasonJim/p/6661514.html)
-
-![图片](https://seeres.com/img/seeres-logo.png)
-</code></pre>
-<p><a href="https://www.cnblogs.com/EasonJim/p/6661514.html">超链接</a></p>
-<figure data-type="image" tabindex="1"><img src="https://seeres.com/img/seeres-logo.png" alt="图片" loading="lazy"></figure>
-<pre><code>代码块
-</code></pre>
 ]]></content>
     </entry>
 </feed>
