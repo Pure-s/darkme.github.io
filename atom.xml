@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pure-s.github.io/darkme.github.io/</id>
     <title>Darket的小屋</title>
-    <updated>2020-05-30T14:12:27.307Z</updated>
+    <updated>2020-06-17T06:52:08.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pure-s.github.io/darkme.github.io/"/>
     <link rel="self" href="https://pure-s.github.io/darkme.github.io/atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://pure-s.github.io/darkme.github.io/images/avatar.png</logo>
     <icon>https://pure-s.github.io/darkme.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Darket的小屋</rights>
+    <entry>
+        <title type="html"><![CDATA[加油！]]></title>
+        <id>https://pure-s.github.io/darkme.github.io/post/jia-you/</id>
+        <link href="https://pure-s.github.io/darkme.github.io/post/jia-you/">
+        </link>
+        <updated>2020-06-17T06:26:37.000Z</updated>
+        <summary type="html"><![CDATA[<p><font color="red" size=2>好长时间都没有写点东西了，不知道从什么时候开始，变得开始赖床，变得不想认真做事情，一天作息极其规律。</font></p>
+]]></summary>
+        <content type="html"><![CDATA[<p><font color="red" size=2>好长时间都没有写点东西了，不知道从什么时候开始，变得开始赖床，变得不想认真做事情，一天作息极其规律。</font></p>
+<!-- more -->
+<pre><code>    从半个月前我决定要认真学好英语，每天新词75，复习的词汇也有160-170，当然这样很大量的词汇随时可以冲破我的脑袋，因此我的一天的大部分时间其实都在英语上。我学单词忘的很快，因此有专门的记忆曲线去循环之前学过的单词对我来说效果还好，但是坏处是这样会花费我大量的时间去过单词，有时候会滑到手累，有时候直接想放弃， 还好慢慢在坚持，大约在七月底我能把四级词汇完整过一遍。
+
+    计算机二级office也是我耿耿于怀的一件事情，打算在9月再去考一遍，争去拿到优秀，再次也要良好。我不知道我这样坚持是不是会有意义，但我知道我会学到更多东西，而不是像之前那样一知半解，我希望的是学好知识，顺带考证，一切水到渠成。
+
+    我决定考研，院校现在还不是很明确，但专业基本已经定下来了，院校其实不是很迫切，但是在今年我必须把考研词汇过一遍，然后打好数学的基本框架，这是今年的两个目标，当然这俩已经很不容易做下去了。
+
+    💪</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本排版歌]]></title>
         <id>https://pure-s.github.io/darkme.github.io/post/ri-ben-pai-ban-ge/</id>
@@ -290,8 +309,10 @@ https://pan.tangmn.cn/show/16/MSDN/cn_windows_10_consumer_editions_version_1803_
         <content type="html"><![CDATA[<p><font color="red" size=2>努力去做</font></p>
 <!-- more -->
 <p>生活算是勉强回归正轨，但是一直以来忙的像个无头苍蝇。</p>
-<p>今早醒来发现昨晚手机毫无征兆地从手中滑落，沉睡去。所以接下来该要认真对付自己的事情了。不知从什么时候开始，已经习惯了忙碌，有时闲下来竟觉得无所适从。有几分忙碌着便觉得充实，闲下来竟觉得空虚。你说闲下来不好吗，倒不是不好，只是，如果可以，我宁愿忙忙碌碌的，如此便大抵是可以不去想其他的乱入耳的东西的。</p>
-<p>如果你从什么时候开始也和我一样，那么恭喜，我们都是那个想做一点事情但现在仍然一事无成的人，所以努力去做。</p>
+<pre><code>    今早醒来发现昨晚手机毫无征兆地从手中滑落，沉睡去。所以接下来该要认真对付自己的事情了。不知从什么时候开始，已经习惯了忙碌，有时闲下来竟觉得无所适从。有几分忙碌着便觉得充实，闲下来竟觉得空虚。你说闲下来不好吗，倒不是不好，只是，如果可以，我宁愿忙忙碌碌的，如此便大抵是可以不去想其他的乱入耳的东西的。
+
+    如果你从什么时候开始也和我一样，那么恭喜，我们都是那个想做一点事情但现在仍然一事无成的人，所以努力去做。
+</code></pre>
 <p><img src="https://cdn.jsdelivr.net/gh/Pure-s/picture/picplus/%E5%A5%BD%E8%BF%90.jpg" width="200" alt="好运"></img></p>
 ]]></content>
     </entry>
@@ -603,27 +624,6 @@ MKV，是一种视频封装格式，就是一种容器，它的视频一般都�
 </li>
 </ol>
 <h3 id="p-alignright2020423-罗永浩p"><p align="right">2020.4.23  罗永浩</p></h3>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被代表的年轻人]]></title>
-        <id>https://pure-s.github.io/darkme.github.io/post/bei-dai-biao-de-nian-qing-ren/</id>
-        <link href="https://pure-s.github.io/darkme.github.io/post/bei-dai-biao-de-nian-qing-ren/">
-        </link>
-        <updated>2020-05-05T05:43:50.000Z</updated>
-        <summary type="html"><![CDATA[<p><font color=red size=2>电影里赛博朋克的都市原来在时空几百公里外并不遥远的土地上真实存在着</font></p>
-]]></summary>
-        <content type="html"><![CDATA[<p><font color=red size=2>电影里赛博朋克的都市原来在时空几百公里外并不遥远的土地上真实存在着</font></p>
-<!-- more -->
-<p><audio src="https://m10.music.126.net/20200505204256/2d5f46e730cdc3f322a4ab3fa28b94df/ymusic/535d/0508/530b/d7cee895d62b513c4b48daa990649a8f.mp3" controls></audio></p>
-<blockquote>
-<p>春水寒 — Rise From The Ashes</p>
-</blockquote>
-<p>这世界上有两种青年</p>
-<p>一种生活在宛如赛博朋克的国际都市中，有着博物馆、美术馆、演唱会，连初中老师都是清北毕业,享受着现代生活的一切便利，享受着二十岁同龄人廉价的服务。</p>
-<p>另一种生活在工厂、流水线、农田、工地里，默默、日复一日地劳动，坐在三十米高脚手架上看巨大的火红太阳沉重落下，或者一周六天睁眼工作闭眼工作，却依然被昂贵的生活成本压的抬不起头。</p>
-<p>农村的十八岁孩子有一天走进城市，才蓦然惊觉，电影里赛博朋克的都市原来在时空几百公里外并不遥远的土地上真实存在着，并且有一批十八岁的同龄人就从小生活在那里，习以为常。</p>
-<figure data-type="image" tabindex="1"><img src="https://x0.ifengimg.com/res/2020/558AA8B26C39C705DBAF02819B244456256370FC_size63_w640_h353.jpeg" alt="bilibibi" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
