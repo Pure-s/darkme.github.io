@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pure-s.github.io/darkme.github.io/</id>
     <title>Darket的小屋</title>
-    <updated>2020-06-17T06:58:21.007Z</updated>
+    <updated>2020-06-29T01:56:49.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pure-s.github.io/darkme.github.io/"/>
     <link rel="self" href="https://pure-s.github.io/darkme.github.io/atom.xml"/>
@@ -10,6 +10,35 @@
     <logo>https://pure-s.github.io/darkme.github.io/images/avatar.png</logo>
     <icon>https://pure-s.github.io/darkme.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Darket的小屋</rights>
+    <entry>
+        <title type="html"><![CDATA[Excel4种转置排列方法_Word联盟]]></title>
+        <id>https://pure-s.github.io/darkme.github.io/post/excel4-chong-zhuan-zhi-pai-lie-fang-fa-_word-lian-meng/</id>
+        <link href="https://pure-s.github.io/darkme.github.io/post/excel4-chong-zhuan-zhi-pai-lie-fang-fa-_word-lian-meng/">
+        </link>
+        <updated>2020-06-29T01:55:46.000Z</updated>
+        <summary type="html"><![CDATA[<p><font color="red" size=2>excel转置须知</font></p>
+]]></summary>
+        <content type="html"><![CDATA[<p><font color="red" size=2>excel转置须知</font></p>
+<!-- more -->
+<h2 id="1-选择性粘贴转置">1、选择性粘贴转置</h2>
+<p>复制后数据后，点击【开始】-【剪贴板】-【粘贴】-【选择性粘贴】-【转置】。</p>
+<figure data-type="image" tabindex="1"><img src="http://www.wordlm.com/uploads/allimg/1803/1-1P3241A941.gif#alt=" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="http://www.wordlm.com/uploads/allimg/1803/1-1P3241F423.gif#alt=" alt="" loading="lazy"></figure>
+<h2 id="2-查找替换转置表格">2、查找替换转置表格</h2>
+<p>先利用填充规则将单元格位置录入对应的单元格，然后利用查找替换，将其前面加上一个等于号 =，即可快速搞定转置。</p>
+<figure data-type="image" tabindex="3"><img src="http://www.wordlm.com/uploads/allimg/1803/1-1P3241A941-50.gif#alt=" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="http://www.wordlm.com/uploads/allimg/1803/1-1P3241F211.gif#alt=" alt="" loading="lazy"></figure>
+<h2 id="3-transpose-函数">3、TRANSPOSE 函数</h2>
+<p>TRANSPOSE<a href="http://www.wordlm.com/Excel/hsbqr/">函数</a>是转置用的，我们可以先在空白区域选中需要转置的区域，然后输入【=TRANSPOSE(A1:H4)】，然后按下<a href="http://www.wordlm.com/Excel/BiaoGe/1733.html">快捷键</a>【Ctrl+Shift + 回车】输入数字公式即可搞定。</p>
+<figure data-type="image" tabindex="5"><img src="http://www.wordlm.com/uploads/allimg/1803/1-1P3241A942.gif#alt=" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="http://www.wordlm.com/uploads/allimg/1803/1-1P3241F145.gif#alt=" alt="" loading="lazy"></figure>
+<h2 id="4-数据透视表转置">4、数据透视表转置</h2>
+<p>转置表格方面，还是数据透视表比较强大和方便，它可以轻松帮助我们将表格转置成各种我们想要的排列方式。</p>
+<figure data-type="image" tabindex="7"><img src="http://www.wordlm.com/uploads/allimg/1803/1-1P3241A942-50.gif#alt=" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="8"><img src="http://www.wordlm.com/uploads/allimg/1803/1-1P3241F131.gif#alt=" alt="" loading="lazy"></figure>
+<p><a href="http://www.wordlm.com/Excel/jqdq/6576.html">http://www.wordlm.com/Excel/jqdq/6576.html</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[加油！]]></title>
         <id>https://pure-s.github.io/darkme.github.io/post/jia-you/</id>
@@ -578,48 +607,6 @@ MKV，是一种视频封装格式，就是一种容器，它的视频一般都�
 <li><font color="#D8D8BF">麦黄色</font></li>
 <li><font color="#99CC32">黄绿色</font></li>
 </ol>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To：武汉的年轻人]]></title>
-        <id>https://pure-s.github.io/darkme.github.io/post/towu-han-de-nian-qing-ren/</id>
-        <link href="https://pure-s.github.io/darkme.github.io/post/towu-han-de-nian-qing-ren/">
-        </link>
-        <updated>2020-05-06T11:54:20.000Z</updated>
-        <summary type="html"><![CDATA[<p><font color=red size=2>年轻人为生活苟且的时候，心里还揣着诗和远方，这才有意义</font></p>
-]]></summary>
-        <content type="html"><![CDATA[<p><font color=red size=2>年轻人为生活苟且的时候，心里还揣着诗和远方，这才有意义</font></p>
-<!-- more -->
-<p><audio src="https://m10.music.126.net/20200510110734/dd8e69b72f4aaa755a7edd187906b0d9/ymusic/535d/0508/530b/d7cee895d62b513c4b48daa990649a8f.mp3" controls></audio></p>
-<blockquote>
-<p>Here we are again — 田洪林</p>
-</blockquote>
-<ol>
-<li>
-<p>在你这个年纪，在即将毕业的阶段，迷茫是正常的，不迷茫才是不正常的，不用担心。我从事教师工作的近八年里，见过的多数大学生在毕业的时候，对未来都是很迷茫的。那些十几二十岁就很清楚自己想要如何度过一生，并且坚定地付诸实现的人，都是极不正常的（此处的“不正常”为中性描述、无褒贬味）</p>
-</li>
-<li>
-<p>你不想“拖着铁饭碗过一眼就里到头的日子”，这很好，绝大多数取得不平凡成就的人，都始于个不甘于平凡的朴素意愿。</p>
-</li>
-<li>
-<p>“当一辈子的外地人”？为什么会这样想？一线城市的北上广深，除了北京确实麻烦一些，其他几个城市都是努力奋斗一段时间就能解决身份问题的。<br>
-如果不用担心户口，那还有什么？传说中很可怕的“离乡背井”吗？说一个年轻人未必知道的真实情况吧，个人收入超过一定数额之后，地域和距离的感觉也会发生严重的扭曲变化:月收入可以买百张机票的人，会比月收入可以买十张机票的人，觉得地球小得多。从武汉到北上广，还在同个时区呢</p>
-</li>
-<li>
-<p>改革开放启动的1978年，中国城镇居民的恩格尔系数是57.5%，四十年后，中国城镇居民的恩格尔系数已降至28.6%。“父母那辈赶上了包分配&quot;，“90后赶上了互联网”，“我们这一代最霉”？“眼前的苟且生存都岌岌可危”？不会。即便你们将来真的运气不好，也不会倒退到父母那辈的状况。<br>
-每个时代的人、包括身处历史上显而易见的黄金时代的人，在遭遇个人生活或事业不顺利时，都很容易认为自己是“不幸的一代”，甚至是“最不幸的一代”。所以你这样可以理解，但不符合事实</p>
-</li>
-<li>
-<p>年轻人为生活苟且的时候，心里还揣着诗和远方，这才有意义。无端苟且，只想着诗和远方的年轻人…基本上都是富二代。年轻人为自己不是富二代而苦恼的，是憨一代。当然，这不是说你。</p>
-</li>
-<li>
-<p>最后，尝试给你提供一些帮助或安慰的我，是个呕心沥血做了6年科技公司最后核心业务维持不下去还欠了6个多亿债务但每天还是活蹦乱跳工作一年就还了一半多债务而且另一半债务看起来也问题不大的连环创业者…希望这能让你积极</p>
-</li>
-<li>
-<p>最后的最后，多年以来，很多人都误以为我这辈子一直都是理想远大、目标明确的人。但实际的情况是，我在高中辍学后，有过长达十多年的迷茫期，直到遇见我老婆，我才算有了相对明确的人生计划。所以，一时找不到工作，就先找个真正的女朋友吧</p>
-</li>
-</ol>
-<h3 id="p-alignright2020423-罗永浩p"><p align="right">2020.4.23  罗永浩</p></h3>
 ]]></content>
     </entry>
 </feed>
